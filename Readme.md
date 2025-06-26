@@ -19,7 +19,7 @@ This is a simple, single-page JavaScript application that lets users view random
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
 - [Dog CEO Public API](https://dog.ceo/)
 
 ## How to Run the App
